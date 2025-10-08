@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Venky M </span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Venky </span></h1>
 <h3 align="center">💾 Data Engineer | ☁️ Azure Specialist | 🤖 AI & GenAI Enthusiast</h3>
 
 ---
@@ -70,7 +70,7 @@ My focus is on bringing intelligence and automation to every layer of the data-t
 
 ### 🤝 **Let’s Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkyjishu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/venky89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:venkyjishu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/VenkyJishu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
