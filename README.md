@@ -1,50 +1,55 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Venky </span></h1>
-<h3 align="center">💾 Data Engineer | ☁️ Azure Specialist | 🤖 AI & GenAI Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Venky Jishu</span></h1>
+<h3 align="center">💾 Data Engineer | ☁️ Cloud & AI Specialist | 🤖 GenAI & Agentic AI Innovator</h3>
 
 ---
 
 ### 🧩 **About Me**
 
-I’m a passionate **Data & AI Engineer** who loves building **scalable data systems**, **machine learning pipelines**, and **Generative AI applications**.  
-My focus is on bringing intelligence and automation to every layer of the data-to-decision workflow — from **ETL** to **LLMs**.
+I’m a **Data & AI Engineer** passionate about building **end-to-end data pipelines**, **intelligent systems**, and **Generative AI solutions** on modern cloud platforms.  
+My work bridges the gap between **data engineering, machine learning, and GenAI** — creating solutions that are both data-driven and production-ready.
 
 ---
 
 ### ⚙️ **What I Do**
-- ☁️ **Azure Data Engineering:** Designing robust data pipelines with **Azure Data Factory**, **Synapse**, and **Databricks**.  
-- 🔥 **PySpark Development:** Building distributed data processing systems and optimized transformations.  
-- 🔧 **MLOps & Deployment:** Automating end-to-end ML lifecycle using **Azure DevOps** and **CI/CD pipelines**.  
-- 📊 **Machine Learning & EDA:** Analyzing data and developing predictive models for real-world insights.  
-- 🤖 **Generative & Agentic AI:** Creating AI-driven applications powered by **LLMs**, **LangChain**, and **Agentic AI frameworks**.
+
+- 🏗️ **Data Engineering:** Designing and orchestrating scalable data pipelines with **Azure Data Factory**, **Databricks**, and **Snowflake**.  
+- 🔥 **Big Data Processing:** Leveraging **PySpark** and **SQL** for high-performance ETL, data transformation, and analytics.  
+- ☁️ **Cloud Platforms:** Developing and deploying solutions on **Microsoft Azure** and **Google Cloud (GCP)**.  
+- 🧠 **Machine Learning:** Building predictive models and applying advanced **EDA** techniques to uncover insights.  
+- 🤖 **Generative & Agentic AI:** Creating **LLM-powered applications** and **autonomous AI agents** for real-world automation.  
+- 🔧 **MLOps & Deployment:** Automating workflows using **Azure DevOps**, CI/CD pipelines, and model lifecycle management.
 
 ---
 
 ### 🛠️ **Tech Stack**
 
-**Languages:**  
+**Languages & Processing:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-**Frameworks & Libraries:**  
+**Data & Analytics:**  
+![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Cloud Platforms:**  
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**AI & ML Tools:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Cloud & Tools:**  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ### 🌱 **Currently Exploring**
-- ⚡ **Agentic AI systems** for reasoning and automation  
-- ☁️ **Scalable data pipelines** with **PySpark + Azure**  
-- 🤝 Building production-grade **Gen AI applications**  
+- Building **GenAI** applications with **LangChain + Azure OpenAI + GCP Vertex AI**  
+- Designing **Agentic AI frameworks** for multi-agent reasoning and automation  
+- Optimizing **PySpark ETL pipelines** on **Azure Databricks** and **Snowflake**  
 
 ---
 
@@ -52,10 +57,10 @@ My focus is on bringing intelligence and automation to every layer of the data-t
 
 | 🚀 Project | 💡 Description |
 |------------|----------------|
-| [**Azure-Data-Engineering-Pipeline**](https://github.com/VenkyJishu/Azure-Data-Engineering-Pipeline) | End-to-end Azure data pipeline integrating ADF, Synapse, and Databricks |
-| [**ML-Projects**](https://github.com/VenkyJishu/MachineLearning_Projects) | Exploratory ML models and predictive analytics experiments |
-| [**GenAI-Apps**](https://github.com/VenkyJishu/GenAI) | Building and deploying LLM-powered Gen AI applications |
-| [**Agentic-AI-Frameworks**](https://github.com/VenkyJishu/AgenticAI) | Experiments with multi-agent architectures and LLM orchestration |
+| [**Azure-Data-Engineering-Pipeline**](https://github.com/VenkyJishu/Azure-Data-Engineering-Pipeline) | End-to-end Azure data pipeline using ADF, Databricks, and Synapse |
+| [**MachineLearning_Projects**](https://github.com/VenkyJishu/MachineLearning_Projects) | ML experiments with EDA, feature engineering, and model optimization |
+| [**GenAI-Apps**](https://github.com/VenkyJishu/GenAI) | LLM-powered apps using Azure OpenAI & LangChain |
+| [**Agentic-AI-Frameworks**](https://github.com/VenkyJishu/AgenticAI) | Research and development of multi-agent AI architectures |
 
 ---
 
@@ -69,12 +74,13 @@ My focus is on bringing intelligence and automation to every layer of the data-t
 ---
 
 ### 🤝 **Let’s Connect**
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/venky89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/venkyjishu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:venkyjishu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/VenkyJishu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ *"Turning Data into Intelligence and AI into Impact."*
+⭐️ *“Transforming Data into Insights, and AI into Impact.”*
