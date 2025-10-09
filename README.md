@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Venky Jishu</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Venky </span></h1>
 <h3 align="center">💾 Data Engineer | ☁️ Cloud & AI Specialist | 🤖 GenAI & Agentic AI Innovator</h3>
 
 ---
