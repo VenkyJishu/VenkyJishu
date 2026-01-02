@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Venky </span></h1>
-<h3 align="center">🧠 Data Engineer | ☁️ Cloud & AI Specialist | 🤖 Generative AI Innovator</h3>
+<h3 align="center">🧠 Principal Data and AI Engineer | ☁️ Cloud & AI Specialist | 🤖 Generative AI Innovator</h3>
 
 ---
 
